@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ngnix
+name: nginx
 version: 1.0.0
-description: this is ngi9nx deployment
+description: this is nginx deployment
 appVersion: 1.2.0
